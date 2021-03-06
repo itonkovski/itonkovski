@@ -3,10 +3,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="linkedin.com/in/ivaylo-tonkovski-8aba9b172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itonkovski" height="30" width="40" /></a>
-</p>
-
-<p align="left">
 <a href="https://linkedin.com/in/ivaylo-tonkovski-8aba9b172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ivaylo-tonkovski-8aba9b172" height="30" width="40" /></a>
 </p>
 
