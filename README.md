@@ -1,5 +1,15 @@
 ### Hi there 👋
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itonkovski)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itonkovski&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itonkovski)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itonkovski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
 <!--
 **itonkovski/itonkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
