@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivaylo Tonkovski</h1>
+<h1 align="center">Hi 👋, I'm Ivo (Ivaylo) Tonkovski</h1>
 <h3 align="center">itonkovski@gmail.com</h3>
 
 <h3 align="center">Connect with me:</h3>
